@@ -19,6 +19,4 @@ AI Mock Interviews
 Resume Analysis
 Student Progress Tracking
 Personalized Learning Plans
-🔗 Live Project
-EduMentor AI⁠�
-Learn • Code • Prepare • Grow 
+🔗 Live Project https://edumentor-ai.ai.studio
