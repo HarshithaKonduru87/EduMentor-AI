@@ -21,4 +21,4 @@ Student Progress Tracking
 Personalized Learning Plans
 🔗 Live Project
 EduMentor AI⁠�
-Learn • Code • Prepare • Grow 🚀
+Learn • Code • Prepare • Grow 
